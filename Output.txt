@@ -1,0 +1,25 @@
+Question: What is polymorphism in java?
+Asked by: Alice
+Tags: java, oop
+Votes: 1
+Comments: 1
+
+Answer by Bob:
+Polymorphism is an ability to take on many forms
+Votes: 1
+Accepted: true
+Comments: 1
+
+User Reputations:
+Alice: 32
+Bob: 45
+Charlie: 2
+
+Search Results for 'java':
+What is polymorphism in java?
+
+Search Results for 'python':
+How to use list comprehensions in Python?
+
+Bob's Questions:
+How to use list comprehensions in Python?
